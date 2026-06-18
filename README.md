@@ -37,9 +37,9 @@ crop. Built for VJs and content creators who prep clips for Resolume Arena daily
 
 Each release includes a `.sha256` checksum file. To confirm the DMG is intact:
 
-    shasum -a 256 GlEnc-v1.0.0.dmg
+    shasum -a 256 GlEnc-vX.Y.Z.dmg
 
-Compare the output against the `GlEnc-v1.0.0.dmg.sha256` file in the release.
+Compare the output against the `GlEnc-vX.Y.Z.dmg.sha256` file in the release.
 
 ## Requirements
 
