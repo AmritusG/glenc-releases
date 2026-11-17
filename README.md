@@ -26,6 +26,10 @@ encode it to:
 Audio is carried through, resampled, or stripped per job, with per-job trim, resize, and
 crop. Built for VJs and content creators who prep clips for Resolume Arena daily.
 
+Since 1.7.0 GlEnc is built in Rust on the same core as Glance and CueGlance: the same window,
+menus and settings as 1.6.2, and DXV / HAP files byte for byte the ones 1.6.2 writes (HAP Q
+sources aside: see the 1.7.0 notes).
+
 ## Installing
 
 1. Download the latest `.dmg`
@@ -44,7 +48,11 @@ Compare the output against the `GlEnc-vX.Y.Z.dmg.sha256` file in the release.
 ## Requirements
 
 - macOS 14 (Sonoma) or later
-- Apple Silicon
+- Apple Silicon or Intel (universal since 1.7.0)
+
+## Known issues
+
+Open known issues are listed in the [Issues tab](../../issues) and in each release's notes.
 
 ## Reporting issues
 
