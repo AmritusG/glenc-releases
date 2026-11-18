@@ -7,7 +7,7 @@ The source code is private. Bug reports and feature requests are welcome via the
 
 ## Download
 
-Latest release: **[Releases page](../../releases/latest)**
+Latest release: **[Releases page](../../releases/latest)** — GlEnc 1.7.1 (the loop-off preview with sound stops at the end; a faster build).
 
 All previous versions are available on the [Releases tab](../../releases).
 
