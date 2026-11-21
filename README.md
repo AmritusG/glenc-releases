@@ -7,7 +7,7 @@ The source code is private. Bug reports and feature requests are welcome via the
 
 ## Download
 
-Latest release: **[Releases page](../../releases/latest)** — GlEnc 1.7.2 (fragmented MP4 files convert again).
+Latest release: **[Releases page](../../releases/latest)** — GlEnc 1.8.0 (faster encoding, same output).
 
 All previous versions are available on the [Releases tab](../../releases).
 
