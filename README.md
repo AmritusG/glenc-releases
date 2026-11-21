@@ -7,7 +7,7 @@ The source code is private. Bug reports and feature requests are welcome via the
 
 ## Download
 
-Latest release: **[Releases page](../../releases/latest)** — GlEnc 1.8.1 (toolbar at the top left, drop files anywhere on the window).
+Latest release: **[Releases page](../../releases/latest)** — GlEnc 1.8.2 (almost no CPU while the window is covered).
 
 All previous versions are available on the [Releases tab](../../releases).
 
