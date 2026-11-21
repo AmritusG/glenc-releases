@@ -7,7 +7,7 @@ The source code is private. Bug reports and feature requests are welcome via the
 
 ## Download
 
-Latest release: **[Releases page](../../releases/latest)** — GlEnc 1.8.0 (faster encoding, same output).
+Latest release: **[Releases page](../../releases/latest)** — GlEnc 1.8.1 (toolbar at the top left, drop files anywhere on the window).
 
 All previous versions are available on the [Releases tab](../../releases).
 
@@ -28,7 +28,8 @@ crop. Built for VJs and content creators who prep clips for Resolume Arena daily
 
 Since 1.7.0 GlEnc is built in Rust on the same core as Glance and CueGlance: the same window,
 menus and settings as 1.6.2, and DXV / HAP files byte for byte the ones 1.6.2 writes (HAP Q
-sources aside: see the 1.7.0 notes).
+sources aside: see the 1.7.0 notes). Since 1.8.1 the toolbar is at the top left and a video dropped
+anywhere on the window is added to the queue.
 
 ## Installing
 
