@@ -7,7 +7,7 @@ The source code is private. Bug reports and feature requests are welcome via the
 
 ## Download
 
-Latest release: **[Releases page](../../releases/latest)** — GlEnc 1.8.2 (almost no CPU while the window is covered).
+Latest release: **[Releases page](../../releases/latest)** — GlEnc 1.8.3 (numbers in saved files now read back exactly).
 
 All previous versions are available on the [Releases tab](../../releases).
 
